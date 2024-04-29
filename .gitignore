@@ -1,0 +1,4 @@
+# Ignore apidoc files
+apidoc/
+# Ignore the build directory and .class files
+build/
