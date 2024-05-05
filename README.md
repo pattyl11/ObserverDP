@@ -2,6 +2,7 @@
 Observer Design Pattern from https://www.newthinktank.com/2012/08/observer-design-pattern-tutorial/
 
 I used a very basic Windows .bat file to build the code:
+
 @echo off
 echo Compiling Java files...
 javac -cp *.java
